@@ -1,0 +1,40 @@
+Module 4 1. Fan cowl door latch opening sequence is: Answer: 1, 3, 2, 4 
+2. APU feed is supplied from: Answer: Left wing inner tank 
+3. When engine is running EEC will get power from: Answer: Dedicated alternator installed in gearbox 
+4. During starting, sequence igniters will de-energized and starter control valve (SCV) will close when N3 speed will reach ___. Answer: 50% 
+5. When SDCU receives a smoke signal from the smoke detectors, it supplies the related smoke warning signal to: Answer: A and B are correct 
+6. The FUEL Transfers are usually controlled ____. Answer:  
+7. Purpose of 2 flow metering system in cargo fire protection system is to make sure that a constant flow is kept for ___. Answer: 240 Minutes 
+8. The RR RB-211 Trent 772 is designed using a modular concept. HP system is under: Answer: Module 04 
+9. To make sure that the APU compartment fluid is drained overboard. A FWD drain mast installed on the ___. Answer: left APU compartment access door 
+10. The overspeed shutdown, when APU speed reaches ___. Answer: 107%
+11. Electronic unit protection box is ventilated from: Answer: None of the above 
+12. The total capacity of the APU oil reservoir is ___. Answer: 8.5 Liters 
+13. Which area has an automatic extinguishing function? Answer: Lavatory + APU 
+14. If an overflow is sensed, the FCMC closes ___. Answer: Both A and B 
+15. When engine fire push button is released out, ___. Answer: All of the above 
+16. The FORWARD and AFT engine mounts attach the engine to the aircraft wings and support the weight of the engine and transmit thrust loads to the aircraft structure. Answer: False 
+17. Turbine casing cooled by fan air and actuator is operated: Answer: Pneumatically 
+18. When oil level is above the 4 liters level, it will trigger indication in APU Service Data page of CMS and ECAM APU page such as: Answer: No indication on APU PAGE 
+19. The APU Bleed is designed to operate throughout the entire flight envelope. Answer: False 
+20. Rolls-Royce RR Trent 772 engine for A330 produces thrust of: Answer: 71000 lbs. 
+21. The IP compressor supplies primary airflow to the ___. Answer: HP compressor 
+22. ECB for APU is located in: Answer: Bulk cargo compartment 
+23. The engine fire protection system gives indications: Answer: All of the above 
+24. In case of an APU fire on ground, the APU FIRE light on the ___. Answer: All of the above 
+25. Engine Thrust is managed and protected against overspeed and over-temperature by controlling the engine subsystems by ___. Answer: EEC
+26. A failed or mis-reading probe can be identified through the FCMC INPU PARAMTERS menu on the MCDU. A degraded quantity indication is shown by ___. Answer: 
+27. During APU roll down, APU re-start is possible if the MASTER SWitch is set to ON again under the condition that speed is still ___. Answer: Above 7% 
+28. Flow metering system is installed in ___. Answer: Cargo fire extinguishing bottle 2 
+29. When and inner tank sensed 2000 kg, the FCMC open the intertank transfer valve for outer tank. Answer: False**** 
+30. Fuel pressure is also used as muscle pressure to operate the ___. Answer: the surge control valve for air regulation and IGV 
+31. Lavatory fire extinguisher provides automatic extinguishing when temperature in waste bin increases approximately ___. Answer: 77 – degree C 
+32. The ON light on the START P/B goes off, the AVAIL light comes on in green, the AVAIL message appears on the ECAM APU page and an APU AVAIL message appears on the ECAM EWD memo when ___. Answer: When APU speed reaches 95% 
+33. Bleed air is bled from intermediate from intermediate compressor and HP compressor at stage ___. Answer: HP3, IP6 
+34. Isolation Control Unit is located in: Answer: Fan case RH side top 
+35. If there is a failure of the two SDCU channels of the 2 CIDS_SDF and/or a failure of the two loops and/or if many CAN buses are inoperative and/or all smoke detectors are defective, warning will appear in EWD as: Answer: SMOKE DETection FAULT 
+36. Rotation of engine is: Answer: Counterclockwise 
+37. APU AFT fuel pump operated when ___. Answer:  
+38. Indication in refuel/defuel panel for aborted automatic refueling. Answer: flashing END light 
+39. At the APU start sequence, Answer: only the primary flow is supplied, but at a preset fuel pressure, the secondary flow is supplied. 
+40. In the emergency electrical configuration, only the ___ is electrically supplied from the Constant Speed Moto/Generator (CSM/G), to restart or supply fuel to one of the two engines. Answer: left main pump 2 
